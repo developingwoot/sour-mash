@@ -31,11 +31,12 @@
     "bootstrap": "^3.3.6"
   },
   "devDependencies": {
-    "typescript": "^1.8.10",
-    "typings":"^1.0.4",
+    "@types/core-js": "^0.9.31",
     "electron-prebuilt": "^0.35.4",
     "es6-shim": "^0.34.0",
     "ts-loader": "^0.7.2",
+    "typescript": "^2.0.0-beta",
+    "typings": "^1.0.4",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   }
